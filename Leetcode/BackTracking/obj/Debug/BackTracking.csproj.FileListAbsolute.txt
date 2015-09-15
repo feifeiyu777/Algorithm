@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\StringOperation\BackTracking\bin\Debug\BackTracking.exe.config
+C:\MyStuffs\MyProject\Leetcode\StringOperation\BackTracking\bin\Debug\BackTracking.exe
+C:\MyStuffs\MyProject\Leetcode\StringOperation\BackTracking\bin\Debug\BackTracking.pdb
+C:\MyStuffs\MyProject\Leetcode\StringOperation\BackTracking\obj\Debug\BackTracking.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\StringOperation\BackTracking\obj\Debug\BackTracking.exe
+C:\MyStuffs\MyProject\Leetcode\StringOperation\BackTracking\obj\Debug\BackTracking.pdb

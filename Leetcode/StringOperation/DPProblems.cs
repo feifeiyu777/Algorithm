@@ -1,5 +1,14 @@
-public class DPProblems
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StringOperation
+{
+    public class DPProblems
     {
+        #region Workd break
         public List<string> WordBreak(string s, ISet<string> wordDict)
         {
             List<string> ret = new List<string>();
@@ -75,3 +84,9 @@ public class DPProblems
 
             return dp;
         }
+        #endregion
+
+
+
+    }
+}

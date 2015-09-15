@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\StringOperation\StringOperation\bin\Debug\StringOperation.exe.config
+C:\MyStuffs\MyProject\Leetcode\StringOperation\StringOperation\obj\Debug\StringOperation.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\StringOperation\StringOperation\bin\Debug\StringOperation.exe
+C:\MyStuffs\MyProject\Leetcode\StringOperation\StringOperation\bin\Debug\StringOperation.pdb
+C:\MyStuffs\MyProject\Leetcode\StringOperation\StringOperation\obj\Debug\StringOperation.exe
+C:\MyStuffs\MyProject\Leetcode\StringOperation\StringOperation\obj\Debug\StringOperation.pdb
