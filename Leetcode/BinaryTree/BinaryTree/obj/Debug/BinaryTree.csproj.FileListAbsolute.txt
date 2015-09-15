@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\MyStuffs\MyProject\Leetcode\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\MyStuffs\MyProject\Leetcode\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\MyStuffs\MyProject\Leetcode\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\MyStuffs\MyProject\Leetcode\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

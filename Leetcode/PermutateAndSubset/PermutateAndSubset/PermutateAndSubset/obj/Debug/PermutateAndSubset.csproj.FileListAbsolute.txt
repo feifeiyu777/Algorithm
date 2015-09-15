@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\PermutateAndSubset\PermutateAndSubset\PermutateAndSubset\bin\Debug\PermutateAndSubset.exe.config
+C:\MyStuffs\MyProject\Leetcode\PermutateAndSubset\PermutateAndSubset\PermutateAndSubset\obj\Debug\PermutateAndSubset.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\PermutateAndSubset\PermutateAndSubset\PermutateAndSubset\bin\Debug\PermutateAndSubset.exe
+C:\MyStuffs\MyProject\Leetcode\PermutateAndSubset\PermutateAndSubset\PermutateAndSubset\bin\Debug\PermutateAndSubset.pdb
+C:\MyStuffs\MyProject\Leetcode\PermutateAndSubset\PermutateAndSubset\PermutateAndSubset\obj\Debug\PermutateAndSubset.exe
+C:\MyStuffs\MyProject\Leetcode\PermutateAndSubset\PermutateAndSubset\PermutateAndSubset\obj\Debug\PermutateAndSubset.pdb

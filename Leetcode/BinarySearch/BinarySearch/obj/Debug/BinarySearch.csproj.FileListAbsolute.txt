@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\MyStuffs\MyProject\Leetcode\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\MyStuffs\MyProject\Leetcode\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\MyStuffs\MyProject\Leetcode\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\MyStuffs\MyProject\Leetcode\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

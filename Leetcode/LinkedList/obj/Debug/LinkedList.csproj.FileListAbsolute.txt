@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\MyStuffs\MyProject\Leetcode\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\MyStuffs\MyProject\Leetcode\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\MyStuffs\MyProject\Leetcode\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\MyStuffs\MyProject\Leetcode\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

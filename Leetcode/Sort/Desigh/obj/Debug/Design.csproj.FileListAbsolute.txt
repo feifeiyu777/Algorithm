@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\Sort\Desigh\bin\Debug\Desigh.exe.config
+C:\MyStuffs\MyProject\Leetcode\Sort\Desigh\bin\Debug\Desigh.exe
+C:\MyStuffs\MyProject\Leetcode\Sort\Desigh\bin\Debug\Desigh.pdb
+C:\MyStuffs\MyProject\Leetcode\Sort\Desigh\obj\Debug\Design.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\Sort\Desigh\obj\Debug\Desigh.exe
+C:\MyStuffs\MyProject\Leetcode\Sort\Desigh\obj\Debug\Desigh.pdb

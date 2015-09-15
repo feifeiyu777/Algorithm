@@ -1,0 +1,6 @@
+C:\MyStuffs\MyProject\Leetcode\Sort\Sort\bin\Debug\Sort.exe.config
+C:\MyStuffs\MyProject\Leetcode\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\MyStuffs\MyProject\Leetcode\Sort\Sort\bin\Debug\Sort.exe
+C:\MyStuffs\MyProject\Leetcode\Sort\Sort\bin\Debug\Sort.pdb
+C:\MyStuffs\MyProject\Leetcode\Sort\Sort\obj\Debug\Sort.exe
+C:\MyStuffs\MyProject\Leetcode\Sort\Sort\obj\Debug\Sort.pdb
